@@ -6,8 +6,8 @@ from helper.get_results import get_results_for_division
 
 save_results = True 
 
-weapon = 'f'
-gender = 'f'
+weapon = 'e'
+gender = 'm'
 category = ''
 
 
